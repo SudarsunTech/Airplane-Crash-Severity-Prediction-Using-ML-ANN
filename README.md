@@ -4,7 +4,8 @@ Fatalities and severe injuries caused due to vehicle accidents have been among t
 An implementation of a few well-known prediction algorithms will be taken forward in forecasting the severity of Airplane Accidents, with details gathered from the Federal Aviation Administration (FAA) accidents and incidents data from Kaggle. Artificial Neural Networks (ANN), Logistic Regression, Support Vector Machines (SVM), and Nave Bayes are the algorithms or methodologies that will be used, tested, and compared. 
 This research and implementation can also help in predicting the most likely causes of that particular severity level of an accident, allowing us to work on these issues to reduce accident severities or uncertainty in the aviation sector.
 
-#Data Source
+**Data Source**
+
 The Airplane Accidents Severity Dataset available on Kaggle contains information about airplane accidents that occurred from 2010 to 2018. The dataset contains two CSV files, "train.csv" and "test.csv".
 The "train.csv" file contains 10,000 rows and 13 columns, while the "test.csv" file contains 2,725 rows and 12 columns. Each row in the dataset represents a unique airplane accident incident. The columns in the dataset include:
 1. "Accident_ID": A unique identifier for each accident incident.
